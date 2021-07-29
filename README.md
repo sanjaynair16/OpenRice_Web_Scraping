@@ -108,6 +108,20 @@ Another consideration is the saturation of the market. For instance, Causeway Ba
 
 In conclusion, the insights can provide justifiactions for why the client might want to open a restauarant in a particular location. However, other factors should be considered in the decision making process.
 
+## Challenges 
+
+1) Whilst web-scraping it was found that Openrice.com would only return 250 entries for each search. To fix this, the data was collected in batches by adjusting the search scope each time.
+
+2) Invalid entries in 'District' and 'Cuisine' meant these had to be manually ammeneded during data processing. This was achievable with the current data-set, however it could prove an issue with larger data-sets.
+
+## Next Steps
+
+- The above analysis should be applied to other food cusiines (American, Italian, Chinese etc.) to see if similar insights can be generated.
+- Potentially explore other food review websies, and adding new features to our data-set by combining multiple sources.
+- As the judgement of popularity is currently based on an assumption, a more reliable measure wil need to be used like finacial reports. This should also be compared to market research on how the restaurant industry is performing at the time and any other relevant news/information.
+
+
+
 
 
 
