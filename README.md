@@ -76,7 +76,7 @@ After investigating the relationship between the number of 'likes', 'dislikes', 
 
 After defining popularity, an EDA was conducted comparing it to location, food type, and price-range.
 
-### Location
+### Location
 
 An outline of the most popular locations in Hong Kong for Japanese Restaurants. Causeway Bay appears to be the most popular location by far, followed by Central.
 
